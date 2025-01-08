@@ -1,0 +1,30 @@
+# Parcel
+- Dev Build
+- Local Server
+- HMR - Hot Module Replacement
+- File Watching Algorithm - written in C++
+- Caching - for faster builds
+- Image optimization
+- Minification of file
+- Bundling files
+- Compress files
+- consistent hashing
+- code splitting
+- differential bundling - support older browswes
+- diagnostics
+- Error handling
+- Host on https
+- most important - Tree shaking - removes unused code
+- different dev and prod bundles
+
+
+Syntax
+
+    npm init
+
+    npx parcel index.html
+
+Syntax for production
+
+    remove "main":"app.js", in your package file
+    npx parcel build index.html

@@ -1,0 +1,30 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "mera project",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenishPraveenKumarG/React-Course.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jemish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenishPraveenKumarG/React-Course/issues"
+  },
+  "homepage": "https://github.com/JenishPraveenKumarG/React-Course#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
