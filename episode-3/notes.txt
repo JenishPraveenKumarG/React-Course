@@ -1,0 +1,27 @@
+# writing Scripts
+
+- go to package.json and add the necessary scrips
+
+# JSX
+
+- different from js
+- made developers life easier
+- JSX (transpiled before it reaches the js engine) - by parcel - Babel
+- Camel case
+- protects unauthorized access like cross site attacks inside JSX
+
+# Babel
+
+- converts JSX into react element and then to HTML
+- it is a JS compiler
+- it is a transpiler
+
+# Components composition
+
+- composing two components into one another is known as composition
+
+# functional components
+
+- a js code that returns JSX 
+
+# to add element inside another element or component inside another component we can use {} 
