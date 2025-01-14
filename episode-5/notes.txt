@@ -1,0 +1,8 @@
+- React hooks
+    - normal js utility functions
+    - 2 main important hooks
+        - useState() - used to create superpowerful react variables
+        - useEffect()
+
+    - as soon as state variable updates react re-renders the components
+    - this makes react most widely used
