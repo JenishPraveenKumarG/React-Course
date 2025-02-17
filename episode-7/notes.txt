@@ -1,0 +1,5 @@
+- Ways of fetching data
+    - 1. 
+        - webpage loads -> API call -> Renders UI
+    - 2.
+        - webpage loads -> Renders UI -> API call -> Re-renderes UI with data
